@@ -54,6 +54,7 @@ modo
 muxhas
 muy
 ni
+no
 nos
 nueva
 nuevo
