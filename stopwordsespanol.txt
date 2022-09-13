@@ -1,8 +1,6 @@
 a
 ah
 al
-algo
-algún
 alguna
 algunos
 alta
@@ -12,8 +10,6 @@ añado
 apenas
 aquel
 aquello
-así
-aún
 capas
 capaz
 caso
@@ -50,7 +46,6 @@ manera
 manifiesto
 mas
 más
-mi
 modo
 muxhas
 muy
@@ -64,11 +59,8 @@ opnión
 parece
 parte
 personalmente
-pero
 pesar
 pésimo
-pocos
-poder
 por
 primer
 proximamente
@@ -81,7 +73,6 @@ realmente
 sana
 sano
 se
-según
 segunda
 segundo
 sido
@@ -93,7 +84,6 @@ sumamente
 tal
 tanto
 ti
-total
 tras
 trata
 u
