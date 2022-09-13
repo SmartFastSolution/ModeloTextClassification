@@ -1,8 +1,6 @@
 a
 ah
 al
-alguna
-algunos
 alta
 alto
 ampliamos
@@ -17,15 +15,11 @@ casos
 cayere
 chuzo
 ciertamente
-con
 criterio
 de
-debemos
 del
 demás
 e
-el
-ella
 en
 ende
 esa
@@ -55,7 +49,6 @@ nueva
 nuevo
 o
 ó
-parece
 parte
 personalmente
 pesar
@@ -67,7 +60,6 @@ próximo
 pudo
 pues
 q
-que
 realmente
 sana
 sano
@@ -77,8 +69,6 @@ segundo
 sido
 sinceramente
 sobrecarga
-son
-su
 sumamente
 tal
 tanto
