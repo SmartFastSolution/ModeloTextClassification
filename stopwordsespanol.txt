@@ -27,6 +27,7 @@ de
 debemos
 del
 demás
+e
 el
 ella
 en
@@ -54,7 +55,6 @@ modo
 muxhas
 muy
 ni
-no
 nos
 nueva
 nuevo
