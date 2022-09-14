@@ -1,1 +1,1 @@
-# ModeloTextClassification[stopwordsespanol.txt](https://github.com/SmartFastSolution/ModeloTextClassification/files/9491922/stopwordsespanol.txt)
+
