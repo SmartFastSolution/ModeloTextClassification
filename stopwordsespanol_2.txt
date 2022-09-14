@@ -16,13 +16,10 @@ cayere
 chuzo
 ciertamente
 criterio
-de
-del
 demás
 e
 en
 ende
-esa
 esas
 ese
 esos
@@ -46,7 +43,6 @@ muy
 ni
 nos
 nueva
-nuevo
 o
 ó
 parte
@@ -63,7 +59,6 @@ q
 realmente
 sana
 sano
-se
 segunda
 segundo
 sido
@@ -72,7 +67,6 @@ sobrecarga
 sumamente
 tal
 tanto
-ti
 tras
 trata
 u
