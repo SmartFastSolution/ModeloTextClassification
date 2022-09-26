@@ -106,3 +106,4 @@ xd
 y
 ya
 ji
+ja
