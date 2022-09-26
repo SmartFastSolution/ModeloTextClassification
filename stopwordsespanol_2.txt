@@ -54,7 +54,6 @@ muxhas
 muchos
 muy
 ni
-no
 nos
 nueva
 nuevo
@@ -82,8 +81,6 @@ segun
 segunda
 segundo
 seguido
-si
-sí
 sido
 siempre
 sinceramente
@@ -108,5 +105,4 @@ x
 xd
 y
 ya
-yo
 ji
