@@ -34,7 +34,6 @@ debemos
 del
 demás
 e
-el
 ella
 en
 ende
@@ -86,7 +85,8 @@ nueva
 nuevo
 o
 ó
-opnión
+opinión
+opción
 para
 parece
 parte
@@ -158,3 +158,9 @@ cuando
 porque
 x80
 la
+el
+le
+lo
+los
+las
+les
