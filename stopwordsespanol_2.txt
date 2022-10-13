@@ -2,6 +2,7 @@ a
 además
 ah
 al
+alguien
 alta
 alto
 ampliamos
@@ -24,6 +25,7 @@ de
 del
 demás
 e
+el
 en
 ende
 esa
@@ -54,6 +56,7 @@ manifiesto
 mas
 más
 me
+mi
 modo
 mucha
 mucho
@@ -107,6 +110,7 @@ ti
 tras
 trata
 todavia
+todo
 tu
 u
 un
