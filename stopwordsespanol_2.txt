@@ -153,3 +153,6 @@ niños
 tan
 de
 si
+quien
+cuando
+porque
