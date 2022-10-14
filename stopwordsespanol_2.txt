@@ -174,3 +174,8 @@ solo
 soledad
 x100
 siempre
+bien
+tiene
+nada
+aunque
+sin
