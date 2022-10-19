@@ -208,3 +208,9 @@ x100
 xd
 y
 ya
+frase
+amor
+propio
+ningun
+mio
+madre
