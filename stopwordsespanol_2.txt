@@ -218,3 +218,5 @@ seria
 sería
 trabajamos
 fue
+importante
+existen
