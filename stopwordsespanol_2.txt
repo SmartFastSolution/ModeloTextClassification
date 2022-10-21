@@ -228,3 +228,5 @@ puede
 cada
 estable
 cierto
+asi
+sea
