@@ -230,3 +230,4 @@ estable
 cierto
 asi
 sea
+gente
