@@ -23,6 +23,7 @@ aún
 aunque
 biblioteca
 bien
+bebe
 cada
 capas
 capaz
@@ -41,7 +42,9 @@ cuando
 cuestión
 darle
 de
+debe
 debemos
+deberian
 del
 demás
 desde
@@ -71,6 +74,7 @@ física
 ha
 hacia
 hay
+haga
 hey
 hola
 hoy
