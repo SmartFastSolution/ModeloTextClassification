@@ -44,7 +44,9 @@ como
 con
 concepciÃ³n
 contacto
+cosa
 criterio
+cualquier
 cuando
 cuenta
 cuestión
@@ -74,6 +76,7 @@ eso
 esos
 esta
 está
+estabilidad
 estable
 estan
 este
@@ -104,6 +107,7 @@ ja
 jajaja
 ji
 jijiji
+justificado
 la
 lado
 las
@@ -236,6 +240,7 @@ tener
 ti
 tiempo
 tiene
+tienen
 toca
 todavia
 todo
