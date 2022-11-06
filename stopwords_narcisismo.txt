@@ -236,7 +236,7 @@ solo
 son
 su
 sumamente
-SUS
+sus
 suyo
 suyos
 tal
@@ -280,3 +280,5 @@ x100
 xd
 y
 ya
+mujer
+forma
