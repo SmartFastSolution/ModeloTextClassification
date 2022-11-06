@@ -105,6 +105,7 @@ hacer
 hacerse
 hacia
 haga
+haria
 harÃ­a
 hay
 he
@@ -176,6 +177,7 @@ opinión
 opino
 OptarÃ­a
 orden
+otra
 pÃ¨ro
 para
 parece
@@ -250,9 +252,11 @@ son
 su
 sumamente
 SUS
+sus
 suyo
 suyos
 tal
+tambien
 talvez
 tan
 tanto
@@ -291,6 +295,7 @@ veces
 vosotros
 voy
 x
+x80
 x100
 xd
 y
