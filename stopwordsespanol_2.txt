@@ -152,16 +152,16 @@ nuevo
 o
 ó
 opción
-opiniÃ³n
 opinión
 opino
-OptarÃ­a
+optaría
 pÃ¨ro
 para
 parece
 parte
 partir
 pero
+peso
 personalmente
 pesar
 pésimo
@@ -189,6 +189,7 @@ que
 qué
 quien
 quizÃ¡s
+quizás
 realizado
 realmente
 respecto
@@ -214,6 +215,7 @@ siempre
 sigue
 siguiente
 sin
+sino
 sinceramente
 sobrecarga
 soledad
@@ -240,6 +242,7 @@ toca
 todavia
 todo
 tomarÃ­a
+tomaría
 total
 trabajamos
 tras
@@ -263,4 +266,3 @@ x100
 xd
 y
 ya
-
