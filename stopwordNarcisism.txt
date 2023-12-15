@@ -61,6 +61,7 @@ bebe
 biblioteca
 bien
 buena
+buen
 brindarÃ­a
 cada
 capas
