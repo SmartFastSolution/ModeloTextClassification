@@ -356,7 +356,7 @@ def removeStopWords(str):
 #select english stopwords
   cachedStopWords = set(stopwords.words("spanish"))
 #add custom words
-  cachedStopWords.update(('le','la','los','a','por','','un','una','unos','unas','las','etc','ha','lo','les','son','tanto','te','o','y','q','x','cuan','ante','entre'))
+  cachedStopWords.update(('se','le','la','los','a','por','','un','una','unos','unas','las','etc','ha','lo','les','son','tanto','te','o','y','q','x','cuan','ante','entre'))
 #remove stop words
   new_str = ' '.join([word for word in str.split() if word not in cachedStopWords])
   return new_str
