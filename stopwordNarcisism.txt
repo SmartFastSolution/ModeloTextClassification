@@ -6,6 +6,8 @@ aun
 demas
 ademas
 aahh
+trae
+lado
 actualidad
 sobre
 estas
@@ -52,10 +54,12 @@ alta
 alto
 ampliamos
 analizan
+acuerdo
 añado
 apenas
 aquel
 aquello
+tan
 aquellos
 asi
 así
@@ -89,7 +93,7 @@ cualquier
 cuando
 cuenta
 cuestión
-darÃ­a
+ellas
 darle
 de
 debe
@@ -171,7 +175,6 @@ llegar
 lo
 los
 lugar
-mÃ¡s
 madre
 mal
 manera
