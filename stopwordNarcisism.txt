@@ -191,7 +191,6 @@ muy
 nacio
 nada
 ni
-niÃ±o
 ningun
 niña
 niñas
@@ -246,7 +245,7 @@ q
 que
 qué
 quien
-quizÃ¡s
+quizás
 realizado
 realmente
 respecto
@@ -285,6 +284,7 @@ SUS
 sus
 suyo
 suyos
+suele
 tal
 tambien
 talvez
