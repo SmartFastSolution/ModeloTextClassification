@@ -82,6 +82,7 @@ jijiji
 jjiiiji
 jijijiiji
 jodar
+joder
 la
 lado
 las
@@ -110,14 +111,11 @@ nada
 ni
 ningun
 nos
-no
 nuestra
 nuestro
 o
 ó
-opción
 para
-parece
 parte
 pasa
 pero
@@ -173,7 +171,6 @@ tipo
 toca
 todo
 todos
-total
 tras
 trata
 través
