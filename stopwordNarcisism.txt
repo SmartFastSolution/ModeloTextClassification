@@ -25,7 +25,6 @@ aún
 aunque
 cada
 cayere
-cero
 chuzo
 cierta
 cierto
@@ -43,7 +42,6 @@ demas
 demás
 dentro
 desde
-día
 donde
 e
 el
@@ -111,6 +109,7 @@ nada
 ni
 ningun
 nos
+no
 nuestra
 nuestro
 o
@@ -124,8 +123,6 @@ poco
 pocos
 por
 porque
-posición
-primer
 propias
 propio
 pues
@@ -136,9 +133,6 @@ qué
 quien
 quiera
 quizás
-realmente
-requieren
-respecto
 se
 sea
 sean
