@@ -59,7 +59,6 @@ eso
 esos
 esta
 está
-estan
 este
 etc
 ha
@@ -105,7 +104,6 @@ mucho
 muchos
 muxhas
 muy
-nada
 ni
 ningun
 nos
@@ -114,11 +112,12 @@ nuestra
 nuestro
 o
 ó
+otro
+otros
 para
 parte
 pasa
 pero
-pesar
 poco
 pocos
 por
